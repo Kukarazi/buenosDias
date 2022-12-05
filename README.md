@@ -6,4 +6,4 @@
 3. Look at the greeting=)
 
 ### Alternative
-Look at github-pages
+Look at github-pages in this repository
