@@ -1,4 +1,4 @@
-# Shows greeting correlated actual time.
+# Shows greeting correlated with actual time.
 
 ## *Steps if you want to run it locally on your PC*
 1. Clone the repository
